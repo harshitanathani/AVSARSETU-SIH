@@ -1,0 +1,11 @@
+internship_id,title,description,required_skills
+201,Data Analyst Intern,"Analyze datasets, build dashboards and reports","Python, Data Analysis, SQL"
+202,Web Developer Intern,"Develop responsive web applications with modern UI","HTML, CSS, JavaScript"
+203,Machine Learning Intern,"Build and train machine learning models for predictions","Python, Machine Learning, NLP"
+204,Cloud Engineer Intern,"Manage cloud infrastructure, databases, and automation","Cloud Computing, SQL, AWS"
+205,Backend Developer Intern,"Work on APIs, databases and server-side applications","Java, Spring Boot, MySQL"
+206,Full Stack Developer Intern,"Develop both frontend and backend of web applications","React, Node.js, MongoDB"
+207,Business Analyst Intern,"Analyze business data and create reports","Excel, PowerBI, Statistics"
+208,AI Research Intern,"Conduct research in NLP and deep learning models","Python, NLP, Deep Learning"
+209,Mobile App Developer Intern,"Develop Android mobile apps with modern tools","Android, Kotlin, Firebase"
+210,Cybersecurity Intern,"Work on ethical hacking and network security projects","Cybersecurity, Networking, Linux"

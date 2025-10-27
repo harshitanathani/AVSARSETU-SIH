@@ -1,0 +1,11 @@
+student_id,skills,interests
+101,"Python, Machine Learning, SQL","Data Science, AI, NLP"
+102,"HTML, CSS, JavaScript","Web Development, UI/UX"
+103,"Cloud Computing, SQL, AWS","Databases, Big Data"
+104,"C, C++, Data Structures","Competitive Programming, Systems"
+105,"Java, Spring Boot, MySQL","Backend Development, APIs"
+106,"React, Node.js, MongoDB","Full-Stack Development, Startups"
+107,"Excel, PowerBI, Statistics","Business Analytics, Finance"
+108,"Python, NLP, Deep Learning","Artificial Intelligence, Research"
+109,"Android, Kotlin, Firebase","Mobile Development, App Design"
+110,"Cybersecurity, Networking, Linux","Ethical Hacking, Security Tools"
